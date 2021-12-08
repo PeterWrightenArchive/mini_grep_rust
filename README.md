@@ -76,4 +76,4 @@ $ cargo run > container.txt
 
 1. [GNU Grep](https://www.gnu.org/software/grep/manual/grep.html)
 2. [Rust Programming Languages](https://doc.rust-lang.org/book/title-page.html)
-3. [A TTD Example in Rust](https://livebook.manning.com/book/a-rust-sampler/chapter-2/)
+3. [A TDD Example in Rust](https://livebook.manning.com/book/a-rust-sampler/chapter-2/)
